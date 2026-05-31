@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.1",
-  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.1/RiftcrashersLauncher-1.1.zip",
-  "fileName": "RiftcrashersLauncher-1.1.zip",
+  "latestVersion": "1.2",
+  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.2/RiftcrashersLauncher-1.2.zip",
+  "fileName": "RiftcrashersLauncher-1.2.zip",
   "mandatory": true,
   "changelogEn": [
-    "Fake update"
+    "Fake update 2"
   ],
   "changelogIt": [
-    "Finto update"
+    "Finto update 2"
   ]
 }
