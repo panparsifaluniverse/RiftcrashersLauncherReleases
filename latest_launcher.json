@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.2",
-  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.2/RiftcrashersLauncher-1.2.zip",
-  "fileName": "RiftcrashersLauncher-1.2.zip",
+  "latestVersion": "1.0",
+  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.0/RiftcrashersLauncher-1.0.zip",
+  "fileName": "RiftcrashersLauncher-1.0.zip",
   "mandatory": true,
   "changelogEn": [
-    "Unlocked Discord social icon"
+    "First release"
   ],
   "changelogIt": [
-    "Sbloccato icona discord social"
+    "Primo rilascio"
   ]
 }
