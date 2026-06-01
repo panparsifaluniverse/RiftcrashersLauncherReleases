@@ -70,6 +70,16 @@ No license is granted to copy, modify, redistribute, publish, reuse, extract, re
 
 ---
 
+## Antivirus / SmartScreen notice
+
+Riftcrashers Launcher is currently unsigned. Because the launcher installer is a new Windows executable and includes update/download functionality, some antivirus engines or Microsoft SmartScreen may occasionally flag it as suspicious.
+
+This is expected for unsigned indie software and does not mean the launcher contains malware. You can verify releases by downloading them only from the official repository.
+
+We are evaluating code signing options to reduce false positives in future releases.
+
+---
+
 ## Contact
 
 For bug reports, testing access, permissions, or inquiries, contact:
@@ -151,6 +161,16 @@ Tutti i diritti sono riservati.
 Questo repository **non è open source**.
 
 Non viene concessa alcuna licenza per copiare, modificare, redistribuire, pubblicare, riutilizzare, estrarre, effettuare reverse engineering o creare opere derivate da qualsiasi contenuto presente in questo repository.
+
+---
+
+## Avviso Antivirus / SmartScreen
+
+Riftcrashers Launcher al momento non è firmato digitalmente. Essendo un eseguibile Windows nuovo e includendo funzionalità di download/aggiornamento, alcuni antivirus o Microsoft SmartScreen potrebbero segnalarlo come sospetto.
+
+Questo può succedere con software indie non firmato e non significa automaticamente che il launcher contenga malware. Scarica il launcher solo dal repository ufficiale.
+
+Stiamo valutando opzioni di code signing per ridurre i falsi positivi nelle prossime release.
 
 ---
 
