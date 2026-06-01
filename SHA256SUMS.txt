@@ -1,0 +1,7 @@
+SHA256 checksum for Riftcrashers Launcher Installer 1.0
+
+File:
+RiftcrashersLauncherSetup-1.0.exe
+
+SHA256:
+6B4F7E1225FDF40E043C6207DCCDD7DEA82F29195D53AD55062A4E32B81B08D8
