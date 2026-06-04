@@ -1,10 +1,23 @@
 {
-  "latestVersion": "1.6",
-  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.6/RiftcrashersLauncher1.6.zip",
-  "fileName": "RiftcrashersLauncher1.6.zip",
+  "latestVersion": "1.7",
+  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.7/RiftcrashersLauncher1.7.zip",
+  "fileName": "RiftcrashersLauncher1.7.zip",
   "mandatory": true,
   "changelogEn": [
-    "Minor fixes"
+    "Fix DPI",
+    "Fix Ko-fi Icon animation",
+    "Fix Autorepair for configuration"
   ],
-  "changelogIt": []
+  "changelogIt": [
+    "Fix dei DPI",
+    "Fix Animazione Icona Ko-fi",
+    "Fix Autorepair per la configurazione"
+  ],
+  "checksum": {
+    "version": "1.7",
+    "algorithm": "SHA256",
+    "type": "source-file-list",
+    "value": "0ad027c492a741acf440b1abcbfd76bf03e73aca85987ee09f9d326f01739d6b",
+    "fileName": "release_checksum.json"
+  }
 }
