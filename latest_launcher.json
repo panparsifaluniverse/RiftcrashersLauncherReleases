@@ -1,22 +1,18 @@
 {
-  "latestVersion": "1.9.2",
-  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.9.2/RiftcrashersLauncher-1.9.1-to-1.9.2.patch.zip",
-  "fileName": "RiftcrashersLauncher-1.9.1-to-1.9.2.patch.zip",
+  "latestVersion": "1.10",
+  "downloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.10/RiftcrashersLauncher-1.10.zip",
+  "fileName": "RiftcrashersLauncher-1.10.zip",
   "mandatory": true,
   "changelogEn": [
     "New Patch Updater"
   ],
   "changelogIt": [],
-  "updateType": "patch",
-  "baseVersion": "1.9.1",
-  "fullDownloadUrl": "https://github.com/panparsifaluniverse/RiftcrashersLauncherReleases/releases/download/launcher-v1.9.2/RiftcrashersLauncher-1.9.2.zip",
-  "fullFileName": "RiftcrashersLauncher-1.9.2.zip",
-  "deleteFiles": [],
+  "updateType": "full",
   "checksum": {
-    "version": "1.9.2",
+    "version": "1.10",
     "algorithm": "SHA256",
     "type": "zip-file",
-    "value": "2a9ab18861a62aeed63efabd9f3a49d9dd743a784e5b909b732200e37e4d7999",
+    "value": "b897297cfd446246948f32706fce78795c3ec97eaa698aeb280351f3e387cb6e",
     "fileName": ""
   }
 }
